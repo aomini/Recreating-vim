@@ -1,7 +1,7 @@
 # Recreating Vim in nodejs
 > Although the name suggests recreation, this project doesnt actually recreates Vim.
 > I've only tried to achieve some basic features similar to vim to understand how vim works. So, this project is my personal implementation of few features from vim.
-> Since, this is a playground project, there are lots and lots of bugs, solving them felt a waste of time since it was about finding possibilities, that is why the code itself is an artifact which I'll never open.
+> Since, this is a playground project, there are lots and lots of bugs & poorly written code, solving them felt a waste of time since it was about finding possibilities, that is why the code itself is an artifact which I'll never open.
 > > However, this can be partially useful to someone who wonders how vim works.
 
 ## Usage
