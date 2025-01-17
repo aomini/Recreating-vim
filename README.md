@@ -5,7 +5,7 @@
 > > However, this can be partially useful to someone who wonders how vim works.
 
 ## Usage
-- Nodejs is required
+- Nodejs is required (^v16)
 - Just run, `node index.js <local-file-name`
 - Probably need `iterm2` of better support
 
