@@ -7,7 +7,7 @@
 ## Usage
 - Nodejs is required (^v16)
 - Just run, `node index.js <local-file-name`
-- Probably need `iterm2` of better support
+- Probably need `iterm2` for better support
 
 ## Features
 - Toggle insert & escape mode with `ESC` key
